@@ -22,5 +22,4 @@
 - Highly passionate Coder
 
 ## 👯 Let's connect
-- [Portfolio Website](ericfoster.dev)
-- [Linkedin](https://www.linkedin.com/in/rosie-bh-lee/)
+- [Email](ericfoster.dev@gmail.com)
