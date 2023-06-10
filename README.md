@@ -22,4 +22,4 @@
 - Highly passionate Coder
 
 ## 👯 Let's connect
-Feel free to visit my website at ![ericfoster.dev](ericfoster.dev) or email me at ericfoster.dev@gmail.com.
+Feel free to visit my website at ericfoster.dev or email me at ericfoster.dev@gmail.com.
