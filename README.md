@@ -11,6 +11,10 @@
 
 ## 🌱 I am currently learning
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## :school: Current Education is
 - Southern New Hampshire University BS in Computer Science w/conc in Software Engineering (Actively Pursuing)
