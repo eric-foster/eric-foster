@@ -1,6 +1,6 @@
 ## Hey There! 👋
 
-<p>I'm Eric, a Front-End Web Developer.</p>
+<p>I'm Eric, a Full-Stack Web Developer.</p>
 
 ## 🔭 Things I code with
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
