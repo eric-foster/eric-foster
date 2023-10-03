@@ -1,6 +1,6 @@
 ## Hey There! 👋
 
-<p>I'm Eric, a Full-Stack Web Developer.</p>
+<p>I'm Eric, a Back-End Developer.</p>
 
 ## 🔭 Things I code with
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -24,7 +24,9 @@
 
 ## :school: Current Education is
 - Southern New Hampshire University BS in Computer Science w/conc in Software Engineering (Actively Pursuing)
-- Zero To Mastery Online Certification in Full-Stack Web Development (Actively Pursuing)
+- Zero To Mastery Online Certification in Full-Stack Web Development
+- Zero To Mastery Online Certification in Advanced Javasript Concepts (Actively Pursuing)
+- Zero To Mastery Online Certifications in Node.js and Back-End Development (Actively Pursuing)
 
 ## ⚡ Fun fact about me
 - I love Disney and Universal
