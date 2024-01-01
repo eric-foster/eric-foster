@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eric Foster
 ===================================================================================================================================
 
-A Back-end developer with experience in crafting and implementing industry standard server-side solutions.
+A Back-end javascript developer with experience in crafting and implementing industry standard server-side solutions.
 ----------------------------------------------------------------------------------------------------------
 
 Experienced individual with a solid background in the complete software development life cycle, including design, testing, and deployment. Equipped with the expertise to craft and implement robust and scalable server-side applications. Committed to ongoing learning and staying informed of industry trends, I am eager to contribute my proficiency to dynamic development teams and deliver high-quality solutions.
