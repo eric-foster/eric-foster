@@ -1,37 +1,34 @@
-## Hey There! 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eric Foster
+===================================================================================================================================
 
-<p>I'm Eric, a Back-End Developer.</p>
+A Back-end developer with experience in crafting and implementing industry standard server-side solutions.
+----------------------------------------------------------------------------------------------------------
 
-## 🔭 Things I code with
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+Experienced individual with a solid background in the complete software development life cycle, including design, testing, and deployment. Equipped with the expertise to craft and implement robust and scalable server-side applications. Committed to ongoing learning and staying informed of industry trends, I am eager to contribute my proficiency to dynamic development teams and deliver high-quality solutions.
 
-## I have an understanding of
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+* 🌍  I'm based in Florida
+* ✉️  You can contact me at [ericfoster.dev@gmail.com](mailto:ericfoster.dev@gmail.com)
+* 🧠  I'm learning Data Structures and Algorithms
+* 🤝  I'm open to collaborating on projects.
 
-## 🌱 I am currently learning
+### Skills
 
-## I use as my workspace editor
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## :school: Current Education is
-- Southern New Hampshire University BS in Computer Science w/conc in Software Engineering (Actively Pursuing)
-- Zero To Mastery Online Certification in Full-Stack Web Development
-- Zero To Mastery Online Certification in Advanced Javasript Concepts (Actively Pursuing)
-- Zero To Mastery Online Certifications in Node.js and Back-End Development (Actively Pursuing)
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
 
-## ⚡ Fun fact about me
-- I love Disney and Universal
-- Highly passionate about self leadership and self initiation
-- Highly passionate Coder
 
-## 👯 Let's connect
-Feel free to visit my website at https://ericfoster.dev or email me at ericfoster.dev@gmail.com.
+### Socials
+
+<p align="left"> <a href="https://www.github.com/eric-foster" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/eric-f-87a366114/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/eric-foster"><img src="https://github-readme-stats.vercel.app/api?username=eric-foster&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="eric-foster's GitHub stats" /></a>
+
+<a href="http://www.github.com/eric-foster"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eric-foster&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/eric-foster" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-foster&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
