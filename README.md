@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eric Foster
 ===================================================================================================================================
 
-A java developer with experience in crafting and implementing industry standard technical solutions.
+A software engineer with experience in crafting and implementing industry standard technical solutions.
 ----------------------------------------------------------------------------------------------------------
 
 Experienced individual with a solid background in the complete software development life cycle, including design, testing, and deployment. Equipped with the expertise to craft and implement robust and scalable java applications. Committed to ongoing learning and staying informed of industry trends, I am eager to contribute my proficiency to dynamic development teams and deliver high-quality solutions.
@@ -15,6 +15,9 @@ Experienced individual with a solid background in the complete software developm
 
 
 <div align="left">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp"/>
+  <img width="12" />       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
